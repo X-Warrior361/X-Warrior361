@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bibek Paul</h1>
 <h3 align="center">A Web Developer (backend mostly) venturing into the depths of Data Science and Machine Learning</h3>
 
-- 🔭 I’m currently working on [Financial Analysis](https://github.com/chennasaisandeep/Financial_analysis)
+- 🔭 I’m currently working on [Financial Analysis](https://github.com/X-Warrior361/Financial-Analysis)
 
 - 🌱 I’m currently learning **Time Series Analysis**
 
